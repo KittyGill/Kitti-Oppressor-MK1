@@ -1,2 +1,28 @@
-# Kitti-Oppressor-MK1
-Oppressor Mk1 inspired bike mod for GTA San Andreas built with GTA3Script/CLEO. Features boost, gliding, in-air controls, missiles, and configurable settings.
+# Kitti Oppressor MK1
+
+Oppressor Mk1 inspired motorcycle for GTA San Andreas.
+
+## Features
+
+- Boost
+- Glide
+- In-air Turning
+- Dumbfire Missiles
+- Heat Seeking Missiles
+- INI Configuration
+
+## Installation
+
+...
+
+## Controls
+
+...
+
+## Credits
+
+...
+
+## Roadmap
+
+...
