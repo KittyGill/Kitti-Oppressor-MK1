@@ -77,12 +77,12 @@ Instead of manually controlling missile movement every frame, use GTA San Andrea
 
 ### Research Tasks
 
-- [ ] Reverse engineer GTA SA missile system
-- [ ] Understand projectile memory structures
-- [ ] Understand CProjectileInfo
-- [ ] Understand CVehicle missile functions
-- [ ] Understand heat-seeking target evaluation
-- [ ] Discover required memory addresses
+- [x] Reverse engineer GTA SA missile system
+- [x] Understand projectile memory structures
+- [x] Understand CProjectileInfo
+- [x] Understand CVehicle missile functions
+- [x] Understand heat-seeking target evaluation
+- [x] Discover required memory addresses
 - [ ] Test native function calls from CLEO
 - [ ] Replace scripted missile movement
 
