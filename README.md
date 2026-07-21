@@ -29,7 +29,7 @@ WASD or Up and Down arrows — control during flight.
 
 ## Credits
 
-Christopher Gill aka Kitti Gill (Author of mod)
+Christopher Gill aka Kitti Gill (Author of mod, yep thats me)
 ThirteenAG and Rockstar games (Inspired me)
 Special thanks to GabrielGBR for letting me use his Oppressor MK2 source code to understand the rocket launcher system. My mod is completed because of him.
 
